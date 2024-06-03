@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello I am Blemental. Blemental comes from dota allstar Hero, Bane Elemental.
+
+I am a simple student.
