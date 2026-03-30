@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello I am Blemental. Blemental comes from dota allstar Hero, Bane Elemental.
-
-I am a simple student.
+Hello I am Blemental. Bane Elemental.
